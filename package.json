@@ -1,0 +1,38 @@
+{
+  "name": "react-basic",
+  "version": "1.0.0",
+  "description": "https://viblo.asia/p/reactjs-cho-nguoi-moi-bat-dau-LzD5dP9e5jY",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/giangmt/react-basic.git"
+  },
+  "keywords": [
+    "react-js"
+  ],
+  "author": "giangmt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/giangmt/react-basic/issues"
+  },
+  "homepage": "https://github.com/giangmt/react-basic#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "bootstrap-sass": "^3.4.1",
+    "cross-env": "^7.0.0",
+    "jquery": "^3.4.1",
+    "laravel-mix": "^5.0.1",
+    "lodash": "^4.17.15",
+    "material-ui": "^0.20.2",
+    "react": "^16.12.0",
+    "react-autobind": "^1.0.6",
+    "react-dom": "^16.12.0",
+    "react-route": "^1.0.3",
+    "react-tap-event-plugin": "^3.0.3",
+    "react-widgets": "^4.4.11",
+    "vue": "^2.6.11"
+  }
+}
